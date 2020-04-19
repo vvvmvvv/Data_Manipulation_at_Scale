@@ -8,10 +8,10 @@
 ![progress](week2/screenshot.png)
 
 ## 3 week
-![progress](week3/screenshots/week3.png)
+![progress](week3/screenshots/week3.PNG)
 
 ## 4 week
-![progress](week4/screenshots/week4.png)
+![progress](week4/screenshots/week4.PNG)
 
 ## Final
-![progress](final.png)
+![progress](final.PNG)
